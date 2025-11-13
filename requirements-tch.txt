@@ -1,0 +1,6 @@
+# Auto-generated minimal dependencies for TCH simulation
+# Generated on: 2025-11-13T15:27:15.635131
+
+matplotlib==3.10.7
+numpy==2.3.4
+pandas==2.3.3
