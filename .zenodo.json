@@ -1,0 +1,36 @@
+{
+  "title": "Thermodynamic Cognitive Homeostasis (TCH): A Subjective Physics Approach to Self-Regulating AI",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Code and data for the article 'Thermodynamic Cognitive Homeostasis (TCH): A Subjective Physics Approach to Self-Regulating AI'. The software is released under the MIT license. The accompanying article (if separately published) may be licensed under CC-BY-4.0.",
+  "license": "MIT",
+  "keywords": [
+    "thermodynamic cognitive homeostasis",
+    "subjective physics",
+    "observer entropy",
+    "cognitive projection",
+    "homeostatic regulation",
+    "cognitive energy",
+    "entropic equilibrium",
+    "phase transition",
+    "self-regulating ai",
+    "multi-agent synchronization",
+    "cognitive stability",
+    "adaptive feedback"
+  ],
+  "version": "1.0",
+  "upload_type": "software",
+  "publication_date": "2025-11-12",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Khomyakov-Vladimir/thermodynamic-cognitive-homeostasis",
+      "scheme": "url"
+    }
+  ]
+}
